@@ -1,0 +1,1 @@
+This is the implementation of CNN kernel from the [Grokking Deep Learning](https://www.manning.com/books/grokking-deep-learning) book.
